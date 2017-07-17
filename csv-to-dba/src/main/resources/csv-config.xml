@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<CSVConfig>
+    <mappingFiles fileType="resource">
+         <mappingFile>/mapping/CRE5A001.csv.xml</mappingFile>
+          <mappingFile>/mapping/CRE5A010.csv.xml</mappingFile>
+    </mappingFiles>
+</CSVConfig>
