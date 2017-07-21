@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<CSVMapping className="com.uff.batch.model.CRE5A010" csvFile="src/main/resources/mapping/CRE5A010" delimiter=";" ignoreFirstLine="true" lineComment="CDCMACREDIT">
+<CSVMapping className="com.baki.batch.model.CRE5A010" csvFile="src/main/resources/mapping/CRE5A010" delimiter=";" ignoreFirstLine="true" lineComment="CDCMACREDIT">
 
     <!-- chaque ligne dans le ficher doit etre mapper ici converter="dateConverter" -->
     
